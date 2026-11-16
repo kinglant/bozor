@@ -1,6 +1,6 @@
 # Bozor: Buy & Sell Locally
 
-**🔗 Live web demo: [kinglant.github.io/bozor](https://kinglant.github.io/bozor/)**
+**🔗 Live web demo: [kinglant.github.io/bozor](https://kinglant.github.io/bozor/)** · **📱 Android APK: [download v1.0.0](https://github.com/kinglant/bozor/releases/latest)**
 
 A C2C marketplace app (in the spirit of Facebook Marketplace, OfferUp and Mercari) built with **Flutter**. One codebase runs on **Android, iOS and the web**. Users browse and search listings, filter them, save favorites, chat with sellers and post their own items with photos.
 
